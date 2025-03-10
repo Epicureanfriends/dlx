@@ -1,4 +1,4 @@
-Title: Lucretius Book One - Bailey  
+Title: Lucretius Book One  
 Author: Cyril Bailey  
 Year: 1916  
 Language: English  
