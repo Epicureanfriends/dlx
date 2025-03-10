@@ -1,9 +1,6 @@
 Title: Lucretius Book 1 - Munro
-
 Author: H.A.J. Munro
-
-Year: 1916???
-
+Year: 1916
 Language: English
 
 ---
