@@ -1,8 +1,7 @@
 {
 	"title": "Lucretius Book One",
 	"files": [
-		"the-road-not-taken/robert.md",
-		"the-road-not-taken/hana.md",
-		"the-road-not-taken/tomas.md"
+		"book1/munro.md",
+		"book1/dunster.md"
 	]
 }
