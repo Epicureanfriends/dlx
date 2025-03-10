@@ -1,7 +1,8 @@
-Title: Lucretius Book 1 - Munro
-Author: H.A.J. Munro
-Year: 1916
-Language: English
+Title: Lucretius Book One - Muncro  
+Author: HAJ Munro  
+Year: 1816  
+Language: English  
+
 
 ---
 [01] MOTHER of the Aeneadae, darling of men and gods, increase-giving Venus, who beneath the gliding signs of heaven fillest with thy presence the ship-carrying sea, the corn-bearing lands, since through thee every kind of living things is conceived, rises up and beholds the light of the sun. Before thee, goddess, flee the winds, the clouds of heaven, before thee and thy advent; for thee earth, manifold in works, puts forth sweet-smelling flowers; for thee the levels of the sea do laugh and heaven propitiated shines with outspread light. For soon as the vernal aspect of day is disclosed, and the birth-favoring breeze of Favonius unbarred is blowing fresh, first the fowls of the air, O lady, show signs of thee and thy entering in, thoroughly smitten in heart by thy power. Next the wild herds bound over the glad pastures and swim the rapid rivers: in such wise each made prisoner by thy charms follows thee with desire, whither thou goest to lead it on. Yes, throughout seas and mountains and sweeping rivers and leafy homes of birds and grassy plains, striking fond love into the breasts of all thou constrainest them each after its kind to continue their races with desire.
