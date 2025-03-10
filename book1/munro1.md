@@ -1,4 +1,4 @@
-Title: Lucretius Book One - Muncro  
+Title: Lucretius Book One  
 Author: HAJ Munro  
 Year: 1816  
 Language: English  
