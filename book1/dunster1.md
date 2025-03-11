@@ -7,7 +7,7 @@ Language: English
 
 MOTHER of Rome, Delight of Men and Gods, Sweet Venus; who with vital power does fill the sea bearing the ships, the fruitful Earth, all things beneath the rolling signs of Heaven; for it is by Thee that creatures of every kind conceive, rise into life, and view the Sun’s bright beams. Thee, Goddess, Thee the winds avoid; the clouds fly Thee and Thy approach. With various art the Earth, for Thee, affords her sweetest flowers; for Thee the sea’s rough waves put on their smiles, and the smooth sky shines with diffused light. For when the buxom Spring leads on the year, and genial gales of western winds blow fresh, unlocked from Winter’s cold, the airy birds first feel Thee, Goddess, and express thy power. Thy active flame strikes through their very souls. And then the savage beasts, with wanton play, frisk over the cheerful fields, and swim the rapid streams. So pleased with thy sweetness, so transported by thy soft charms, all living Nature strives, with sharp desire, to follow Thee, her Guide, where Thou art pleased to lead. In short, Thy power, inspiring every breast with tender love, drives every creature on with eager heat, in seas, in mountains, in swiftest floods, in leafy forests, and in verdant plains, to propagate their kind from age to age.
 
-## 2 
+## 21 
 
 Since Thou, alone, doest govern Nature’s laws, and nothing, without Thee, can rise to light, without Thee nothing can look gay or lovely; I beg Thee a companion to my lays, which now I sing of Nature, and I devote to my dear Memmius, whom Thou art ever pleased, sweet Goddess, to adorn with every grace. For him, kind Deity, inspire my song, and give immortal beauty to my verse. 
 
