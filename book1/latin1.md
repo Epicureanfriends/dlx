@@ -33,7 +33,6 @@ nec sine te quicquam dias in luminis oras
 exoritur neque fit laetum neque amabile quicquam,
 te sociam studeo scribendis versibus esse,
 quos ego de rerum natura pangere conor 25
-
 Memmiadae nostro, quem tu, dea, tempore in omni
 omnibus ornatum voluisti excellere rebus.
 quo magis aeternum da dictis, diva, leporem.
@@ -46,6 +45,9 @@ reiicit aeterno devictus vulnere amoris,
 atque ita suspiciens tereti cervice reposta 35
 pascit amore avidos inhians in te, dea, visus
 eque tuo pendet resupini spiritus ore.
+
+## 3 
+
 hunc tu, diva, tuo recubantem corpore sancto
 circum fusa super, suavis ex ore loquellas
 funde petens placidam Romanis, incluta, pacem; 40
@@ -60,6 +62,9 @@ ipsa suis pollens opibus, nihil indiga nostri,
 nec bene promeritis capitur nec tangitur ira.
 Humana ante oculos foede cum vita iaceret 62
 in terris oppressa gravi sub religione,
+
+## 4
+
 quae caput a caeli regionibus ostendebat
 horribili super aspectu mortalibus instans, 65
 primum Graius homo mortalis tollere contra
@@ -70,42 +75,28 @@ inritat animi virtutem, effringere ut arta 70
 naturae primus portarum claustra cupiret.
 ergo vivida vis animi pervicit et extra
 
+## 5
+
 processit longe flammantia moenia mundi
-
 atque omne immensum peragravit mente animoque,
-
 unde refert nobis victor quid possit oriri, 75
-
 quid nequeat, finita potestas denique cuique
-
 qua nam sit ratione atque alte terminus haerens.
-
 quare religio pedibus subiecta vicissim
-
 opteritur, nos exaequat victoria caelo.
 
+## 6
+
 Illud in his rebus vereor, ne forte rearis 80
-
 impia te rationis inire elementa viamque
-
 indugredi sceleris. quod contra saepius illa
-
 religio peperit scelerosa atque impia facta.
-
 Aulide quo pacto Triviai virginis aram
-
 Iphianassai turparunt sanguine foede 85
-
 ductores Danaum delecti, prima virorum.
-
 cui simul infula virgineos circum data comptus
-
 ex utraque pari malarum parte profusast,
-
 et maestum simul ante aras adstare parentem
-
 sensit et hunc propter ferrum celare ministros 90
-
 aspectuque suo lacrimas effundere civis,
-
 muta metu terram genibus summissa petebat.
