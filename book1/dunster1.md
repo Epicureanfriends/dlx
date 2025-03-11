@@ -1,5 +1,5 @@
 Title: Lucretius Book One  
-Author: Dunster  
+Author: Samuel Dunster  
 Year: 1743  
 Language: English  
 
