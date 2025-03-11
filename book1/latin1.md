@@ -78,9 +78,6 @@ murmure compressit caelum, sed eo magis acrem
 inritat animi virtutem, effringere ut arta 70
 naturae primus portarum claustra cupiret.
 ergo vivida vis animi pervicit et extra
-
-## 6
-
 processit longe flammantia moenia mundi
 atque omne immensum peragravit mente animoque,
 unde refert nobis victor quid possit oriri, 75
@@ -88,6 +85,9 @@ quid nequeat, finita potestas denique cuique
 qua nam sit ratione atque alte terminus haerens.
 quare religio pedibus subiecta vicissim
 opteritur, nos exaequat victoria caelo.
+
+## 6
+
 Illud in his rebus vereor, ne forte rearis 80
 impia te rationis inire elementa viamque
 indugredi sceleris. quod contra saepius illa
