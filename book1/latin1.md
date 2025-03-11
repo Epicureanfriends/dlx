@@ -54,17 +54,20 @@ funde petens placidam Romanis, incluta, pacem; 40
 nam neque nos agere hoc patriai tempore iniquo
 possumus aequo animo nec Memmi clara propago
 talibus in rebus communi desse saluti.
+
+## 4
+
 omnis enim per se divum natura necessest
 immortali aevo summa cum pace fruatur 45
 semota ab nostris rebus seiunctaque longe;
 nam privata dolore omni, privata periclis,
 ipsa suis pollens opibus, nihil indiga nostri,
 nec bene promeritis capitur nec tangitur ira.
+
+## 5
+
 Humana ante oculos foede cum vita iaceret 62
 in terris oppressa gravi sub religione,
-
-## 4
-
 quae caput a caeli regionibus ostendebat
 horribili super aspectu mortalibus instans, 65
 primum Graius homo mortalis tollere contra
@@ -75,7 +78,7 @@ inritat animi virtutem, effringere ut arta 70
 naturae primus portarum claustra cupiret.
 ergo vivida vis animi pervicit et extra
 
-## 5
+## 6
 
 processit longe flammantia moenia mundi
 atque omne immensum peragravit mente animoque,
@@ -84,9 +87,6 @@ quid nequeat, finita potestas denique cuique
 qua nam sit ratione atque alte terminus haerens.
 quare religio pedibus subiecta vicissim
 opteritur, nos exaequat victoria caelo.
-
-## 6
-
 Illud in his rebus vereor, ne forte rearis 80
 impia te rationis inire elementa viamque
 indugredi sceleris. quod contra saepius illa
