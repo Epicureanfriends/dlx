@@ -3,7 +3,7 @@ Author: Cyril Bailey
 Year: 1916  
 Language: English  
 
----
+
 
 [01] MOTHER of Aeneas’s sons, joy of men and gods, Venus the life-giver, who beneath the gliding stars of heaven fillest with life the sea that carries the ships and the land that bears the crops; for thanks to thee every tribe of living things is conceived, and comes forth to look upon the light of the sun. Thou, goddess, thou dost turn to flight the winds and the clouds of heaven, thou at thy coming; for thee earth, the quaint artificer, puts forth her sweet-scented flowers; for thee the levels of ocean smile, and the sky, its anger past, gleams with spreading light. For when once the face of the spring day is revealed and the teeming breeze of the west wind is loosed from prison and blows strong, first the birds in high heaven herald thee, goddess, and thine approach, their hearts thrilled with thy might. Then the tame beasts grow wild and bound over the fat pastures, and swim the racing rivers; so surely enchained by thy charm each follows thee in hot desire whither thou goest before to lead him on. Yea, through seas and mountains and tearing rivers and the leafy haunts of birds and verdant plains thou dost strike fond love into the hearts of all, and makest them in hot desire to renew the stock of their races, each after his own kind. 
 
