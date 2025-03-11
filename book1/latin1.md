@@ -18,9 +18,6 @@ nam simul ac species patefactast verna diei
 et reserata viget genitabilis aura favoni,
 aeriae primum volucris te, diva, tuumque
 significant initum perculsae corda tua vi.
-
-## 2
-
 inde ferae pecudes persultant pabula laeta
 et rapidos tranant amnis: ita capta lepore 14
 te sequitur cupide quo quamque inducere pergis. 16
@@ -28,6 +25,9 @@ denique per maria ac montis fluviosque rapacis
 frondiferasque domos avium camposque virentis
 omnibus incutiens blandum per pectora amorem
 efficis ut cupide generatim saecla propagent. 20
+
+## 2
+
 quae quoniam rerum naturam sola gubernas
 nec sine te quicquam dias in luminis oras
 exoritur neque fit laetum neque amabile quicquam,
