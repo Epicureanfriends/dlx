@@ -35,6 +35,10 @@ te sociam studeo scribendis versibus esse,
 quos ego de rerum natura pangere conor 25
 Memmiadae nostro, quem tu, dea, tempore in omni
 omnibus ornatum voluisti excellere rebus.
+
+
+## 3 
+
 quo magis aeternum da dictis, diva, leporem.
 effice ut interea fera moenera militiai
 per maria ac terras omnis sopita quiescant; 30
@@ -45,9 +49,6 @@ reiicit aeterno devictus vulnere amoris,
 atque ita suspiciens tereti cervice reposta 35
 pascit amore avidos inhians in te, dea, visus
 eque tuo pendet resupini spiritus ore.
-
-## 3 
-
 hunc tu, diva, tuo recubantem corpore sancto
 circum fusa super, suavis ex ore loquellas
 funde petens placidam Romanis, incluta, pacem; 40
