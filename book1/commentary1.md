@@ -1,5 +1,5 @@
 Title: Tusculun Disputations  
-Author: EF Commentaryo
+Author: EF Commentary  
 Year: 45 BC  
 Language: Latin  
 
