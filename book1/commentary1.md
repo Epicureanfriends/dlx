@@ -1,7 +1,7 @@
 Title: Tusculun Disputations  
-Author: EF Commentary  
-Year: 45 BC  
-Language: Latin  
+Author: EpicureanFriends Commentary  
+Year: 2025    
+Language: English  
 
 ## XIII
 
