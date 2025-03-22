@@ -1,7 +1,7 @@
-Title: Tusculun Disputations  
+Title: Tusculun Disputations
 Author: EF Commentary
 Year: 2025
-Language: English  
+Language: English
 
 ## XIII
 
