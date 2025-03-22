@@ -1,5 +1,5 @@
 Title: Tusculun Disputations  
-Author: Cicero - Yongeo
+Author: Cicero - Yonge  
 Year: 1900C  
 Language: EnglishLatin  
 
