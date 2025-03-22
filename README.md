@@ -1,4 +1,4 @@
-# Side By Side
+# Side By Side - Tusculun Disputations
 
 Easy visual comparison of different translations or versions of itemized texts;
 e.g. poems, bibles, etc.
