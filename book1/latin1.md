@@ -13,7 +13,11 @@ si vero scrutari vetera et ex is ea quae scriptores Graeciae prodiderunt eruere 
 
 Maxumum vero argumentum est naturam ipsam de inmortalitate animorum tacitam iudicare, quod omnibus curae sunt, et maxumae quidem, quae post mortem futura sint. 'serit arbores, quae alteri saeclo prosint', ut ait (Statius) in Synephebis, quid spectans nisi etiam postera saecula ad se pertinere? ergo arbores seret diligens agricola, quarum aspiciet bacam ipse numquam; vir magnus leges, instituta, rem publicam non seret? quid procreatio liberorum, quid propagatio nominis, quid adoptationes filiorum, quid testamentorum diligentia, quid ipsa sepulcrorum monumenta, elogia significant nisi nos futura etiam cogitare?
 
-32 Quid? illud num dubitas, quin specimen naturae capi deceat ex optima quaque natura? quae est melior igitur in hominum genere natura quam eorum, qui se natos ad homines iuvandos, tutandos, conservandos, arbitrantur? abiit ad deos Hercules: numquam abisset, nisi, cum inter homines esset, eam sibi viam munivisset. vetera iam ista et religione omnium consecrata: XV. quid in hac re publica tot tantosque viros ob rem publicam interfectos cogitasse arbitramur? iisdemne ut finibus nomen suum quibus vita terminaretur? nemo umquam sine magna spe inmortalitatis se pro patria offerret ad mortem.
+32 Quid? illud num dubitas, quin specimen naturae capi deceat ex optima quaque natura? quae est melior igitur in hominum genere natura quam eorum, qui se natos ad homines iuvandos, tutandos, conservandos, arbitrantur? abiit ad deos Hercules: numquam abisset, nisi, cum inter homines esset, eam sibi viam munivisset. vetera iam ista et religione omnium consecrata: 
+
+## XV 
+
+quid in hac re publica tot tantosque viros ob rem publicam interfectos cogitasse arbitramur? iisdemne ut finibus nomen suum quibus vita terminaretur? nemo umquam sine magna spe inmortalitatis se pro patria offerret ad mortem.
 
 33 licuit esse otioso Themistocli, licuit Epaminondae, licuit, ne et vetera et externa quaeram, mihi; sed nescio quo modo inhaeret in mentibus quasi saeclorum quoddam augurium futurorum, idque in maximis ingeniis altissimisque animis et existit maxime et apparet facillime. quo quidem dempto, quis tam esset amens, qui semper in laboribus et periculis viveret?
 
