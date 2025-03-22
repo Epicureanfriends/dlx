@@ -1,8 +1,8 @@
-Title: Tusculun Disputations
-Author: Cicero - Yonge
-Year: 1916  
-Language: English  
+Title: Tusculun Disputations  
+Author: Cicero - Yongeo
+Year: 1900C  
+Language: EnglishLatin  
 
 ## XIII
 
-MOTHER of Aeneas’s sons, joy of men and gods, Venus the life-giver, who beneath the gliding stars of heaven fillest of 
+Aeneadum genetrix, hominum divomque voluptas,
