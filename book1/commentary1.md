@@ -47,11 +47,11 @@ Again proof by mathematics:  "Do we, then, doubt, as we do in other cases, (thou
 
 ## XVIII
 
-We will pass over Dicæarchus, with his contemporary and fellow-disciple Aristoxenus, both indeed men of learning. One of them seems never even to have been affected with grief, as he could not perceive that he had a soul; while the other is so pleased with his musical compositions, that he endeavours to show an analogy betwixt them and souls. Now, we may understand harmony to arise from the intervals of sounds, whose various compositions occasion many harmonies; but I do not see how a disposition of members, and the figure of a body without a soul, can occasion harmony; he had better, learned as he is, leave these speculations to his master Aristotle, and follow his own trade, as a musician; good advice is given him in that Greek proverb,—
+Cicero criticizes Dicaemarchus as never feeling grief and so incapable of perceiving that he had a soul, and criticizes Aristoxenus for suggesting that there is a parallel with music and that the soul is a harmony.  Cicero says to leave those speculations to Aristotle.
 
-Apply your talents where you best are skill'd.
+And Cicero says that he will have nothing at all to do with atomism. Was Democritus saying that the atoms are warm and can breathe and are alive?
 
-I will have nothing at all to do with that fortuitous concourse of individual light and round bodies, notwithstanding Democritus insists on their being warm, and having breath, that is to say, life. But this soul, which is compounded of either of the four principles from which we assert that all things are derived, is of inflamed air, as seems particularly to have been the opinion of Panætius, and must necessarily mount upwards; for air and fire have no tendency downwards, but always ascend; so should they be dissipated, that must be at some distance from the earth; but should they remain, and preserve their original state, it is clearer still that they must be carried heavenward; and this gross and concrete air, which is nearest the earth, must be divided and broken by them; for the soul is warmer, or rather hotter than that air, which I just now called gross and concrete; and this may be made evident from this consideration,—that our bodies, being compounded of the earthy class of principles, grow warm by the heat of the soul.
+Cicero agrees that the soul is like air or fire, another commonality with the Stoics.
 
 ## XIX
 
