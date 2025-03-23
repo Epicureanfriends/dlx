@@ -12,7 +12,7 @@ This difference in perspective can be viewed as illustrating how Epicurus differ
 
 ## XIV
 
-In response to this I would point out that Epicurus provided for the future of his school and for the children of Metrodorus, but he did not believe in any life after death.  
+In response to this we can point out that Epicurus provided for the future of his school and for the children of Metrodorus, but he did not believe in any life after death.  
 
 Likewise Diogenes of Oinoanda erected his wall and specifically mentioned future generations, even though he had no thought of his consciousness surviving his death.
 
@@ -24,33 +24,26 @@ In sum, Cicero's just making a false argument.  We have plenty of incentive whil
 
 ## XVI
 
-But as we are led by nature to think there are gods, and as we discover, by reason, of what description they are, so, by the consent of all nations, we are induced to believe that our souls survive; but where their habitation is, and of what character they eventually are, must be learned from reason. The want of any certain reason on which to argue has given rise to the idea of the shades below, and to those fears, which you seem, not without reason, to despise: for as our bodies fall to the ground, and are covered with earth (humus), from whence we derive the expression to be interred (humari), that has occasioned men to imagine that the dead continue, during the remainder of their existence, under ground; which opinion has drawn after it many errors, which the poets have increased; for the theatre, being frequented by a large crowd, among which are women and children, is wont to be greatly affected on hearing such pompous verses as these—
+"But as we are led by nature to think there are gods, and as we discover, by reason, of what description they are," << this part is fairly consistent with Velleius and prolepsis, but again, the "consent of all nations" that follows next goes too far.
 
-Lo! here I am, who scarce could gain this place,
+As for souls going underground Cicero again seems to admit that this is preposterous and suited mainly for actors trying to impress women and children such as in a theatre.  Again Cicero says "at present it seems to be removed" indicating that the error was no longer popular.
 
-Through stony mountains and a dreary waste;
+Not this slam at the sensations: "To withdraw the mind from sensual objects, and abstract our thoughts from what we are accustomed to, is an attribute of great genius"
 
-Through cliffs, whose sharpen'd stones tremendous hung,
-
-Where dreadful darkness spread itself around:
-
-and the error prevailed so much, though indeed at present it seems to me to be removed, that although men knew that the bodies of the dead had been burned, yet they conceived such things to be done in the infernal regions as could not be executed or imagined without a body; for they could not conceive how disembodied souls could exist; and, therefore, they looked out for some shape or figure. This was the origin of all that account of the dead in Homer. This was the idea that caused my friend Appius to frame his Necromancy; and this is how there got about that idea of the lake of Avernus, in my neighbourhood,—
-
-From whence the souls of undistinguish'd shape,
-
-Clad in thick shade, rush from the open gate
-
-Of Acheron, vain phantoms of the dead.
-
-And they must needs have these appearances speak, which is not possible without a tongue, and a palate, and jaws, and without the help of lungs and sides, and without some shape or figure; for they could see nothing by their mind alone, they referred all to their eyes. To withdraw the mind from sensual objects, and abstract our thoughts from what we are accustomed to, is an attribute of great genius: I am persuaded, indeed, that there were many such men in former ages: but Pherecydes the Syrian is the first on record who said that the souls of men were immortal; and he was a philosopher of great antiquity in the reign of my namesake Tullus. His disciple Pythagoras greatly confirmed this opinion, who came into Italy in the reign of Tarquin the Proud: and all that country which is called Great Greece was occupied by his school, and he himself was held in high honour, and had the greatest authority: and the Pythagorean sect was for many ages after in such great credit, that all learning was believed to be confined to that name.
+And this confirms the popularity of Pythagorus:  "His disciple Pythagoras greatly confirmed this opinion, who came into Italy in the reign of Tarquin the Proud: and all that country which is called Great Greece was occupied by his school, and he himself was held in high honour, and had the greatest authority: and the Pythagorean sect was for many ages after in such great credit, that all learning was believed to be confined to that name."
 
 ## XVII
 
-But I return to the ancients. They scarcely ever gave any reason for their opinion but what could be explained by numbers or definitions. It is reported of Plato, that he came into Italy to make himself acquainted with the Pythagoreans; and that when there, amongst others, he made an acquaintance with Archytas and Timæus, and learned from them all the tenets of the Pythagoreans; and that he not only was of the same opinion with Pythagoras concerning the immortality of the soul, but that he also brought reasons in support of it; which, if you have nothing to say against it, I will pass over, and say no more at present about all this hope of immortality.
+The ancients gave no reasons for their opinions except "through numbers or definitions!"
 
-A. What, will you leave me when you have raised my expectations so high? I had rather, so help me Hercules! be mistaken with Plato, whom I know how much you esteem, and whom I admire myself from what you say of him, than be in the right with those others.
+Another interesting reference to the relationship between Plato and Pythagorus, and to how so many would prefer to be wrong with Plato than right with the anti-Platonists.
 
-M. I commend you; for, indeed, I could myself willingly be mistaken in his company. Do we, then, doubt, as we do in other cases, (though I think here is very little room for doubt in this case, for the mathematicians prove the facts to us,) that the earth is placed in the midst of the world, being as it were a sort of point, which they call a κέντρον, surrounded by the whole heavens; and that such is the nature of the four principles, which are the generating causes of all things, that they have equally divided amongst them the constituents of all bodies; moreover that earthy and humid bodies are carried at equal angles, by their own weight and ponderosity, into the earth and sea; that the other two parts consist one of fire and the other of air? As the two former are carried by their gravity and weight into the middle region of the world; so these, on the other hand, ascend by right lines into the celestial regions; either because, owing to their intrinsic nature, they are always endeavouring to reach the highest place, or else because lighter bodies are naturally repelled by heavier; and as this is notoriously the case, it must evidently follow, that souls, when once they have departed from the body, whether they are animal, (by which term I mean capable of breathing,) or of the nature of fire, must mount upwards: but if the soul is some number, as some people assert, speaking with more subtlety than clearness, or if it is that fifth nature, for which it would be more correct to say that we have not given a name to, than that we do not correctly understand it—still it is too pure and perfect, not to go to a great distance from the earth. Something of this sort, then, we must believe the soul to be, that we may not commit the folly of thinking that so active a principle lies immerged in the heart or brain; or, as Empedocles would have it, in the blood.
+Again proof by mathematics:  "Do we, then, doubt, as we do in other cases, (though I think here is very little room for doubt in this case, for the mathematicians prove the facts to us,) ...."
+
+- Earth in Center of Universe;
+- Souls as lighter bodies mount upwards after death.
+- Soul as a NUMBER (which he admits is not clear)
+
 
 ## XVIII
 
