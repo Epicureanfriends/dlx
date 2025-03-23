@@ -12,11 +12,9 @@ This difference in perspective can be viewed as illustrating how Epicurus differ
 
 ## XIV
 
-But the greatest proof of all is, that nature herself gives a silent judgment in favour of the immortality of the soul, inasmuch as all are anxious, and that to a great degree, about the things which concern futurity;—
+In response to this I would point out that Epicurus provided for the future of his school and for the children of Metrodorus, but he did not believe in any life after death.  
 
-One plants what future ages shall enjoy,
-
-as Statius saith in his Synephebi. What is his object in doing so, except that he is interested in posterity? Shall the industrious husbandman, then, plant trees the fruit of which he shall never see? and shall not the great man found laws, institutions, and a republic? What does the procreation of children imply—and our care to continue our names—and our adoptions—and our scrupulous exactness in drawing up wills—and the inscriptions on monuments, and panegyrics, but that our thoughts run on futurity? There is no doubt but a judgment may be formed of nature in general, from looking at each nature in its most perfect specimens; and what is a more perfect specimen of a man, than those are who look on themselves as born for the assistance, the protection, and the preservation of others? Hercules has gone to heaven; he never would have gone thither, had he not, whilst amongst men, made that road for himself. These things are of old date, and have, besides, the sanction of universal religion.
+Likewise Diogenes of Oinoanda erected his wall and specifically mentioned future generations, even though he had no thought of his consciousness surviving his death.
 
 ## XV
 
