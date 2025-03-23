@@ -18,19 +18,9 @@ Likewise Diogenes of Oinoanda erected his wall and specifically mentioned future
 
 ## XV
 
-What will you say? what do you imagine that so many and such great men of our republic, who have sacrificed their lives for its good, expected? Do you believe that they thought that their names should not continue beyond their lives? None ever encountered death for their country, but under a firm persuasion of immortality! Themistocles might have lived at his ease; so might Epaminondas; and, not to look abroad and amongst the ancients for instances, so might I myself. But, somehow or other, there clings to our minds a certain presage of future ages; and this both exists most firmly and appears most clearly, in men of the loftiest genius and greatest souls. Take away this, and who would be so mad as to spend his life amidst toils and dangers? I speak of those in power. What are the poet's views but to be ennobled after death? What else is the object of these lines—
+This is just simply false.  No persuasion of immortality is neceessary to act to protect your family and your country. And in fact you can get great pleasure now about thinking of how your actions will impact the future, not only directly but in how you will be remembered by others.  The same motivations are implicit and even explicit in the motivations that Epicurus says we have to pursue friendship.
 
-Behold old Ennius here, who erst
-
-Thy fathers' great exploits rehearsed?
-
-He is challenging the reward of glory from those men whose ancestors he himself had ennobled by his poetry. And in the same spirit he says in another passage—
-
-Let none with tears my funeral grace, for I
-
-Claim from my works an immortality.
-
-Why do I mention poets? the very mechanics are desirous of fame after death. Why did Phidias include a likeness of himself in the shield of Minerva, when he was not allowed to inscribe his name on it? What do our philosophers think on the subject? do not they put their names to those very books which they write on the contempt of glory? If, then, universal consent is the voice of nature, and if it is the general opinion everywhere, that those who have quitted this life are still interested in something; we also must subscribe to that opinion. And if we think that men of the greatest abilities and virtue see most clearly into the power of nature, because they themselves are her most perfect work; it is very probable that, as every great man is especially anxious to benefit posterity, there is something of which he himself will be sensible after death.
+In sum, Cicero's just making a false argument.  We have plenty of incentive while we are alive to act to benefit those who will come after us, and we don't have to imagine ourselves as ghosts hanging around to observe those results.
 
 ## XVI
 
