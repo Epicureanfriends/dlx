@@ -55,25 +55,17 @@ Cicero agrees that the soul is like air or fire, another commonality with the St
 
 ## XIX
 
-We may add, that the soul can the more easily escape from this air, which I have often named, and break through it; because nothing is swifter than the soul; no swiftness is comparable to the swiftness of the soul; which, should it remain uncorrupt and without alteration, must necessarily be carried on with such velocity as to penetrate and divide all this atmosphere, where clouds, and rain, and winds are formed; which, in consequence of the exhalations from the earth, is moist and dark; but, when the soul has once got above this region, and falls in with, and recognises a nature like its own, it then rests upon fires composed of a combination of thin air and a moderate solar heat, and does not aim at any higher flight. For then, after it has attained a lightness and heat resembling its own, it moves no more, but remains steady, being balanced, as it were, between two equal weights. That, then, is its natural seat where it has penetrated to something like itself; and where, wanting nothing further, it may be supported and maintained by the same aliment which nourishes and maintains the stars.
+CIcero sides with what sounds like a Stoic-like position that souls go up into the air because they are light and warm, but Cicero seems to think the souls stay there.
 
-Now, as we are usually incited to all sorts of desires by the stimulus of the body, and the more so, as we endeavour to rival those who are in possession of what we long for, we shall certainly be happy when, being emancipated from that body, we at the same time get rid of these desires and this rivalry: and, that which we do at present, when, dismissing all other cares, we curiously examine and look into anything, we shall then do with greater freedom; and we shall employ ourselves entirely in the contemplation and examination of things; because there is naturally in our minds a certain insatiable desire to know the truth; and the very region itself where we shall arrive, as it gives us a more intuitive and easy knowledge of celestial things, will raise our desires after knowledge. For it was this beauty of the heavens, as seen even here upon earth, which gave birth to that national and hereditary philosophy, (as Theophrastus calls it,) which was thus excited to a desire of knowledge. But those persons will in a most especial degree enjoy this philosophy, who, while they were only inhabitants of this world and enveloped in darkness, were still desirous of looking into these things with the eye of their mind.
+This is where Cicero actually argues that it will be good to be dead because we will after death be in a better position to pursue the kind of knowledge that we longed for when alive.
 
 ## XX
 
-For, if those men now think that they have attained something who have seen the mouth of the Pontus, and those straits which were passed by the ship called Argo, because,
+According to Cicero the things we see when we are dead will be much more impressive than what we see when we are alive.
 
-From Argos she did chosen men convey,
+This is a very important section where Cicero is showing how the leading schools were representing the senses and the body as holding us back.  Cicero says it is the soul itself which sees and hears
 
-Bound to fetch back the golden fleece, their prey;
-
-or those who have seen the straits of the ocean,
-
-Where the swift waves divide the neighbouring shores
-
-Of Europe, and of Afric.
-
-What kind of sight do you imagine that will be, when the whole earth is laid open to our view? and that, too, not only in its position, form, and boundaries, nor those parts of it only which are habitable, but those also that lie uncultivated, through the extremities of heat and cold to which they are exposed; for not even now is it with our eyes that we view what we see, for the body itself has no senses; but (as the naturalists, aye, and even the physicians assure us, who have opened our bodies, and examined them), there are certain perforated channels from the seat of the soul to the eyes, ears, and nose; so that frequently, when either prevented by meditation, or the force of some bodily disorder, we neither hear nor see, though our eyes and ears are open, and in good condition; so that we may easily apprehend that it is the soul itself which sees and hears, and not those parts which are, as it were, but windows to the soul; by means of which, however, she can perceive nothing, unless she is on the spot, and exerts herself. How shall we account for the fact, that by the same power of thinking we comprehend the most different things; as colour, taste, heat, smell, and sound? which the soul could never know by her five messengers, unless everything was referred to her, and she were the sole judge of all. And we shall certainly discover these things in a more clear and perfect degree when the soul is disengaged from the body, and has arrived at that goal to which nature leads her; for at present, notwithstanding nature has contrived, with the greatest skill, those channels which lead from the body to the soul, yet are they, in some way or other, stopped up with earthy and concrete bodies; but when we shall be nothing but soul, then nothing will interfere to prevent our seeing everything in its real substance, and in its true character.
+"when we shall be nothing but soul, then nothing will interfere to prevent our seeing everything in its real substance, and in its true character."
 
 ## XXI
 
