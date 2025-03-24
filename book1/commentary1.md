@@ -12,6 +12,8 @@ This difference in perspective can be viewed as illustrating how Epicurus differ
 
 ## XIV
 
+Here we see Cicero argue that we should look to "perfect specifimens" for Nature's guidance, not to "the young of all species" as Epicurus points to (as we see Torquatus say in On Ends Book One).
+
 In response to this we can point out that Epicurus provided for the future of his school and for the children of Metrodorus, but he did not believe in any life after death.  
 
 Likewise Diogenes of Oinoanda erected his wall and specifically mentioned future generations, even though he had no thought of his consciousness surviving his death.
