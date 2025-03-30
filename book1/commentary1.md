@@ -89,11 +89,16 @@ In the next section we turn to the relationship between motion and eternality:
 
 ## XXIII
 
-“That which is always moved is eternal; but that which gives motion to something else, and is moved itself by some external cause, when that motion ceases, must necessarily cease to exist. That, therefore, alone, which is self-moved, because it is never forsaken by itself, can never cease to be moved. Besides, it is the beginning and principle of motion to everything else; but whatever is a principle has no beginning, for all things arise from that principle, and it cannot itself owe its rise to anything else; for then it would not be a principle did it proceed from anything else. But if it has no beginning, it never will have any end; for a principle which is once extinguished, cannot itself be restored by anything else, nor can it produce anything else from itself; inasmuch as all things must necessarily arise from some first cause. And thus it comes about, that the first principle of motion must arise from that thing which is itself moved by itself; and that can neither have a beginning nor an end of its existence, for otherwise the whole heaven and earth would be overset, and all nature would stand still, and not be able to acquire any force, by the impulse of which it might be first set in motion. Seeing, then, that it is clear, that whatever moves itself is eternal, can there be any doubt that the soul is so? For everything is inanimate which is moved by an external force; but everything which is animate is moved by an interior force, which also belongs to itself. For this is the peculiar nature and power of the soul; and if the soul be the only thing in the whole world which has the power of self-motion, then certainly it never had a beginning, and therefore it is eternal.”
+This is a word game of defining something as eternal because it is eternally moving and neither gives motion to anything else nor is itself moved by anything else.
 
-Now, should all the lower order of philosophers, (for so I think they may be called, who dissent from Plato and Socrates and that school,) unite their force, they never would be able to explain anything so elegantly as this, nor even to understand how ingeniously this conclusion is drawn. The soul, then, perceives itself to have motion, and at the same time that it gets that perception, it is sensible that it derives that motion from its own power, and not from the agency of another; and it is impossible that it should ever forsake itself; and these premises compel you to allow its eternity, unless you have something to say against them.
+This is a first cause / argument from causation discussion.
 
-A. I should myself be very well pleased not to have even a thought arise in my mind against them, so much am I inclined to that opinion.
+The argument is that whatever moves itself is eternal, and thus the soul must be eternal because the soul can move itself (?)
+
+What about the souls of animals?  Is this why they don't think animals have souls?  "For this is the peculiar nature and power of the soul; and if the soul be the only thing in the whole world which has the power of self-motion, then certainly it never had a beginning, and therefore it is eternal.”
+
+This is another slam against Epicurus and all who dissent from Plato/Socrates
+
 
 ## XXIV
 
