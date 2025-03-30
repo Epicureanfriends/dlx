@@ -89,7 +89,7 @@ In the next section we turn to the relationship between motion and eternality:
 
 ## XXIII
 
-This is a word game of defining something as eternal because it is eternally moving and neither gives motion to anything else nor is itself moved by anything else.
+This eternal motion argument is a word game of defining something as eternal because it is eternally moving and neither gives motion to anything else nor is itself moved by anything else.
 
 This is a first cause / argument from causation discussion.
 
@@ -102,7 +102,15 @@ This is another slam against Epicurus and all who dissent from Plato/Socrates
 
 ## XXIV
 
-M. Well then, I appeal to you, if the arguments which prove that there is something divine in the souls of men are not equally strong? but if I could account for the origin of these divine properties, then I might also be able to explain how they might cease to exist; for I think I can account for the manner in which the blood, and bile, and phlegm, and bones, and nerves, and veins, and all the limbs, and the shape of the whole body, were put together and made; aye, and even as to the soul itself, were there nothing more in it than a principle of life, then the life of a man might be put upon the same footing as that of a vine or any other tree, and accounted for as caused by nature; for these things, as we say, live. Besides, if desires and aversions were all that belonged to the soul, it would have them only in common with the beasts; but it has, in the first place, memory, and that, too, so infinite, as to recollect an absolute countless number of circumstances, which Plato will have to be a recollection of a former life; for in that book which is inscribed Menon, Socrates asks a child some questions in geometry, with reference to measuring a square; his answers are such as a child would make, and yet the questions are so easy, that while answering them, one by one, he comes to the same point as if he had learned geometry. From whence Socrates would infer, that learning is nothing more than recollection; and this topic he explains more accurately, in the discourse which he held the very day he died; for he there asserts that any one who seeming to be entirely illiterate, is yet able to answer a question well that is proposed to him, does in so doing manifestly show that he is not learning it then, but recollecting it by his memory. Nor is it to be accounted for in any other way, how children come to have notions of so many and such important things, as are implanted, and as it were sealed up in their minds, (which the Greeks call ἔννοιαι,) unless the soul before it entered the body had been well stored with knowledge. And as it had no existence at all, (for this is the invariable doctrine of Plato, who will not admit anything to have a real existence which has a beginning and an end; and who thinks that that alone does really exist which is of such a character as what he calls εἴδεα, and we species,) therefore, being shut up in the body, it could not while in the body discover what it knows: but it knew it before, and brought the knowledge with it, so that we are no longer surprised at its extensive and multifarious knowledge: nor does the soul clearly discover its ideas at its first resort to this abode to which it is so unaccustomed, and which is in so disturbed a state; but after having refreshed and recollected itself, it then by its memory recovers them; and, therefore, to learn implies nothing more than to recollect. But I am in a particular manner surprised at memory; for what is that faculty by which we remember? what is its force? what its nature? I am not inquiring how great a memory Simonides may be said to have had, or Theodectes, or that Cineas, who was sent to Rome as ambassador from Pyrrhus, or in more modern times Charmadas; or very lately, Metrodorus, the Scepsian, or our own contemporary Hortensius: I am speaking of ordinary memory, and especially of those men who are employed in any important study or art, the great capacity of whose minds it is hard to estimate, such numbers of things do they remember.
+Cicero doesn't even want to explain the origin of these divine properties, because if he could do that then he might be able to explain how they might cease to exist.
+
+Cicero says pleasure and pain are shared with beass, but we also have memory
+
+The Meno parodox of living from a past life.
+
+Plato says that if a thing is not eternal it does not really exist!
+
+Cicero is using the amazing abilities of memory to imply that these abilities mean memory is divine - more than bodily.
 
 ## XXV
 
