@@ -28,7 +28,7 @@ In sum, Cicero's just making a false argument.  We have plenty of incentive whil
 
 As for souls going underground Cicero again seems to admit that this is preposterous and suited mainly for actors trying to impress women and children such as in a theatre.  Again Cicero says "at present it seems to be removed" indicating that the error was no longer popular.
 
-Not this slam at the sensations: "To withdraw the mind from sensual objects, and abstract our thoughts from what we are accustomed to, is an attribute of great genius"
+Note this slam at the sensations: "To withdraw the mind from sensual objects, and abstract our thoughts from what we are accustomed to, is an attribute of great genius"
 
 And this confirms the popularity of Pythagorus:  "His disciple Pythagoras greatly confirmed this opinion, who came into Italy in the reign of Tarquin the Proud: and all that country which is called Great Greece was occupied by his school, and he himself was held in high honour, and had the greatest authority: and the Pythagorean sect was for many ages after in such great credit, that all learning was believed to be confined to that name."
 
@@ -69,13 +69,11 @@ This is a very important section where Cicero is showing how the leading schools
 
 ## XXI
 
-It is true, I might expatiate, did the subject require it, on the many and various objects with which the soul will be entertained in those heavenly regions; when I reflect on which, I am apt to wonder at the boldness of some philosophers, who are so struck with admiration at the knowledge of nature, as to thank, in an exulting manner, the first inventor and teacher of natural philosophy, and to reverence him as a God: for they declare that they have been delivered by his means from the greatest tyrants, a perpetual terror, and a fear that molested them by night and day. What is this dread—this fear? what old woman is there so weak as to fear these things, which you, forsooth, had you not been acquainted with natural philosophy, would stand in awe of?
+This too sounds like criticism of Epicurean views for giving thanks to Nature and to Epicurus - reverencing him as a god!  And he criticizes the view that Epicureans are delivering us from "Fear" when no one believes the stories of the underworld.
 
-The hallow'd roofs of Acheron, the dread
+Cicero says that it is unseemly to boast about this, and it makes them look stupid to assert that they might have believed the tales of the gods if not for Epicurus.
 
-Of Orcus, the pale regions of the dead.
-
-And does it become a philosopher to boast that he is not afraid of these things, and that he has discovered them to be false? And from this we may perceive how acute these men were by nature, who, if they had been left without any instruction would have believed in these things. But now they have certainly made a very fine acquisition in learning that when the day of their death arrives they will perish entirely; and, if that really is the case, for I say nothing either way, what is there agreeable or glorious in it? Not that I see any reason why the opinion of Pythagoras and Plato may not be true: but even although Plato were to have assigned no reason for his opinion (observe how much I esteem the man), the weight of his authority would have borne me down; but he has brought so many reasons, that he appears to me to have endeavoured to convince others, and certainly to have convinced himself.
+Cicero "says nothing either way" as to whether the soul survives death -- but he does say that Plato had lots of reasons and seems to have convinced himself!
 
 ## XXII
 
