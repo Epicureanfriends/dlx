@@ -1,4 +1,6 @@
-# Side By Side - Tusculun Disputations
+# Side By Side - Lucretius
+
+THE MATERIAL BELOW MUST BE UPDATED!!!!
 
 Easy visual comparison of different translations or versions of itemized texts;
 e.g. poems, bibles, etc.
