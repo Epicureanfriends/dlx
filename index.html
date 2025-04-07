@@ -258,6 +258,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             z-index: 1002;
             text-align: center;
+            width: 300px; /* Added for better layout */
         }
         body.dark-mode #about-popup {
             background: #333;
@@ -267,6 +268,8 @@
         #about-popup a {
             color: #0066cc;
             text-decoration: none;
+            display: block; /* Each link on its own line */
+            margin: 5px 0;
         }
         #about-popup a:hover {
             text-decoration: underline;
@@ -295,6 +298,13 @@
             <button id="column-toggle">☰</button>
             <div id="column-menu">
                 <a href="#" id="about-link">About - Navigation</a>
+                <a href="#" onclick="scrollToSection('the-will'); document.getElementById('column-menu').style.display='none'; return false;">The Will</a>
+                <a href="#" onclick="scrollToSection('to-idomeneus'); document.getElementById('column-menu').style.display='none'; return false;">To Idomeneus</a>
+                <a href="#" onclick="scrollToSection('books'); document.getElementById('column-menu').style.display='none'; return false;">Books</a>
+                <a href="#" onclick="scrollToSection('to-herodotus'); document.getElementById('column-menu').style.display='none'; return false;">To Herodotus</a>
+                <a href="#" onclick="scrollToSection('to-pythocles'); document.getElementById('column-menu').style.display='none'; return false;">To Pythocles</a>
+                <a href="#" onclick="scrollToSection('to-menoeceus'); document.getElementById('column-menu').style.display='none'; return false;">To Menoeceus</a>
+                <a href="#" onclick="scrollToSection('doctrines'); document.getElementById('column-menu').style.display='none'; return false;">Doctrines</a>
                 <label><input type="checkbox" id="col-laertius" checked> Laertius</label><br>
                 <label><input type="checkbox" id="col-hicks" checked> R D Hicks</label><br>
                 <label><input type="checkbox" id="col-bailey" checked> Cyril Bailey</label><br>
@@ -333,15 +343,13 @@
     <div id="about-popup">
         <p>This page was prepared by Cassius Amicus with the assistance of many other participants at the EpicureanFriends.com forum. For more information about the use of this website, <a href="https://www.epicureanfriends.com/thread/4362-lucretius-side-by-side-english-and-latin-versions/" target="_blank">click here</a>.</p>
         <p>Major Sections:</p>
-        <ul style="text-align: left; padding-left: 20px;">
-            <li><a href="#the-will" class="popup-link">The Will</a></li>
-            <li><a href="#to-idomeneus" class="popup-link">To Idomeneus</a></li>
-            <li><a href="#books" class="popup-link">Books</a></li>
-            <li><a href="#to-herodotus" class="popup-link">To Herodotus</a></li>
-            <li><a href="#to-pythocles" class="popup-link">To Pythocles</a></li>
-            <li><a href="#to-menoeceus" class="popup-link">To Menoeceus</a></li>
-            <li><a href="#doctrines" class="popup-link">Doctrines</a></li>
-        </ul>
+        <a href="#" onclick="scrollToSection('the-will'); document.getElementById('about-popup').style.display='none'; return false;">The Will</a>
+        <a href="#" onclick="scrollToSection('to-idomeneus'); document.getElementById('about-popup').style.display='none'; return false;">To Idomeneus</a>
+        <a href="#" onclick="scrollToSection('books'); document.getElementById('about-popup').style.display='none'; return false;">Books</a>
+        <a href="#" onclick="scrollToSection('to-herodotus'); document.getElementById('about-popup').style.display='none'; return false;">To Herodotus</a>
+        <a href="#" onclick="scrollToSection('to-pythocles'); document.getElementById('about-popup').style.display='none'; return false;">To Pythocles</a>
+        <a href="#" onclick="scrollToSection('to-menoeceus'); document.getElementById('about-popup').style.display='none'; return false;">To Menoeceus</a>
+        <a href="#" onclick="scrollToSection('doctrines'); document.getElementById('about-popup').style.display='none'; return false;">Doctrines</a>
     </div>
 
     <script>
@@ -377,7 +385,6 @@
                 originalContent[col.id] = html;
             }
             setupNavigation();
-            setupPopupLinks();
             const hash = window.location.hash.slice(1);
             if (hash && headingMap[hash]) {
                 scrollToSection(hash);
@@ -399,20 +406,6 @@
                     currentSectionIndex = sectionIds.indexOf(id);
                 });
                 nav.appendChild(a);
-            });
-        }
-
-        function setupPopupLinks() {
-            const popupLinks = document.querySelectorAll('#about-popup .popup-link');
-            popupLinks.forEach(link => {
-                link.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    const id = link.getAttribute('href').slice(1);
-                    scrollToSection(id);
-                    updateURL(id);
-                    currentSectionIndex = sectionIds.indexOf(id);
-                    document.getElementById('about-popup').style.display = 'none';
-                });
             });
         }
 
