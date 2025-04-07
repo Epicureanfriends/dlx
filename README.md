@@ -1,4 +1,4 @@
-# Side By Side - Lucretius
+# Side By Side - Diogenes Laertius Ten
 
 THE MATERIAL BELOW MUST BE UPDATED!!!!
 
