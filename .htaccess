@@ -1,4 +1,4 @@
 RewriteEngine On
-RewriteBase /sbslucretius/
+RewriteBase /sbsdlx/
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule .* index.html [PT]
