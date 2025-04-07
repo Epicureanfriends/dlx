@@ -258,7 +258,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             z-index: 1002;
             text-align: center;
-            width: 300px; /* Added for better layout */
+            width: 300px;
         }
         body.dark-mode #about-popup {
             background: #333;
@@ -268,7 +268,7 @@
         #about-popup a {
             color: #0066cc;
             text-decoration: none;
-            display: block; /* Each link on its own line */
+            display: block;
             margin: 5px 0;
         }
         #about-popup a:hover {
@@ -368,23 +368,28 @@
         let currentSectionIndex = -1;
 
         async function loadContent() {
-            for (let i = 0; i < columns.length; i++) {
-                const col = columns[i];
-                const response = await fetch(col.file);
-                const text = await response.text();
-                const html = marked.parse(text).replace(/<h([1-4])>(.*?)<\/h\1>/g, (match, level, content) => {
-                    const id = content.trim().toLowerCase().replace(/\s+/g, '-');
-                    if (!headingMap[id]) {
-                        headingMap[id] = [];
-                        sectionIds.push(id);
-                    }
-                    headingMap[id][i] = `${id}-${i}`;
-                    return `<h${level} id="${id}-${i}" class="heading">${content}</h${level}>`;
-                });
-                document.getElementById(col.id).innerHTML = html;
-                originalContent[col.id] = html;
+            try {
+                for (let i = 0; i < columns.length; i++) {
+                    const col = columns[i];
+                    const response = await fetch(col.file);
+                    if (!response.ok) throw new Error(`Failed to fetch ${col.file}`);
+                    const text = await response.text();
+                    const html = marked.parse(text).replace(/<h([1-4])>(.*?)<\/h\1>/g, (match, level, content) => {
+                        const id = content.trim().toLowerCase().replace(/\s+/g, '-');
+                        if (!headingMap[id]) {
+                            headingMap[id] = [];
+                            sectionIds.push(id);
+                        }
+                        headingMap[id][i] = `${id}-${i}`;
+                        return `<h${level} id="${id}-${i}" class="heading">${content}</h${level}>`;
+                    });
+                    document.getElementById(col.id).innerHTML = html;
+                    originalContent[col.id] = html;
+                }
+                setupNavigation();
+            } catch (error) {
+                console.error('Error loading content:', error);
             }
-            setupNavigation();
             const hash = window.location.hash.slice(1);
             if (hash && headingMap[hash]) {
                 scrollToSection(hash);
@@ -415,6 +420,8 @@
                 const el = document.getElementById(headingMap[id]?.[i]);
                 if (el) {
                     el.scrollIntoView({ behavior: 'smooth' });
+                } else {
+                    console.log(`No element found for ID: ${headingMap[id]?.[i]}`);
                 }
             });
             const navLinks = document.querySelectorAll('#nav-panel a');
